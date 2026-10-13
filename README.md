@@ -1,4 +1,3 @@
-# Math-Game
 
 # 🧠 🔢 Math Game - C++
 
